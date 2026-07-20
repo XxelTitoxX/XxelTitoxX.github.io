@@ -16,7 +16,8 @@ listing:
 ::: {.hero}
 # Edgar Duc
 
-AI researcher working on **inverse problems, generative modeling, and reliable machine learning systems**.
+AI researcher working on *inverse problems, generative modeling, and reliable machine learning systems*.
+**I am currently looking for a PhD thesis, starting October/November 2026. If you have a project in mind in fundamental AI (AI methodology and mathematical analysis), medical AI or robotics, please let me know!**
 
 [GitHub](https://github.com/edgarduc){.btn .btn-primary}
 [CV](cv.html){.btn .btn-secondary}

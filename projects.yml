@@ -1,3 +1,12 @@
+- title: "Mapping LLM Sycophancy with Quality-Diversity Search"
+  year: 2026
+  description: "Investigated the sycophancy of LLMs by using quality-diversity search to explore the space of prompts and identify those that elicit sycophantic responses."
+  concepts: [Large Language Models, Sycophancy, Quality-Diversity Search]
+  image: "assets/img/sycophancy.png"
+  image-alt: "Mapping LLM Sycophancy with Quality-Diversity Search"
+  pdf: "assets/pdf/reports/report_autotelic_AI.pdf"
+  github: "https://github.com/edgarduc/aces"
+
 - title: "Benchmarking Entropic OT Solvers"
   year: 2026
   description: "Comparative study of five entropic optimal transport solvers, including Sinkhorn Map, ICNN, expectile-regularized NOT, Monge-gap NOT, and CFM, across four tasks."
